@@ -1,0 +1,1 @@
+O banco foi constríudo no phpMyAdmin e o arquivo "bookbox.sql" é a versão final exportada. 
